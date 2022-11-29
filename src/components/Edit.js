@@ -36,6 +36,9 @@ function Edit(){
 
     return(
         <div>
+        <div>
+            <h1>Edit User</h1>
+        </div>
              <Form className="d-grid gap-2" style={{margin:"15rem"}}>
             <Form.Group className="mb-3" controlId="formName">
                 <Form.Control type="text" placeholder="Enter Name" value={name} required onChange={(e) => setName(e.target.value)}>      
