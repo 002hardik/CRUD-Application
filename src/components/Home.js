@@ -28,7 +28,7 @@ function Home(){
     return(
         <>
         <div style={{alignitems:"center"}}>
-            <h1>CRUD Application </h1>
+            <h1>CRUD Application : </h1>
         </div>
         <Fragment>
             <div style={{margin:"10rem"}}>
