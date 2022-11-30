@@ -29,6 +29,7 @@ function Home(){
         <>
         <div style={{alignitems:"center"}}>
             <h1>CRUD Application : </h1>
+            <img src="edu1.jpg" className='image'></img>
         </div>
         <Fragment>
             <div style={{margin:"10rem"}}>
