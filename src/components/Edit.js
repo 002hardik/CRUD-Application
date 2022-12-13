@@ -37,7 +37,7 @@ function Edit(){
     return(
         <div>
         <div>
-            <h1>Edit User </h1>
+            <h1>Edit User : </h1>
             <img src="edu2.jpg" className='image'></img>
         </div>
              <Form className="d-grid gap-2" style={{margin:"15rem"}}>
